@@ -1,3 +1,3 @@
 #! /bin/bash
-seting="YUhSMGNITTZMeTl3WVhOMFpXSnBiaTVqYjIwdmVsSlNORVozUTNBSwo="
+seting="UGRhaSBMaWtoYWkga3JvIElBUyBCYW5vIEthaGUgQ2hhbWVsaSBrbyBraG9qIHJhaGUK"
 echo "$seting" | base64 -d

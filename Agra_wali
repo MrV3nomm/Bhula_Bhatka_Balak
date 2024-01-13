@@ -1,3 +1,4 @@
 #! /bin/bash
+flag="Q2hpbnRpdCBNYXR0IGhvIEJhbGFrIEFwa28gRGhhd2phIGtpIFByYXB0aSBKYXJyb3IgaG9naQo="
 seting="U2FtbmUgV2FsZSBTaGFybWEgamkga2kgTGFka2kK"
 echo "$seting" | base64 -d

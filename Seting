@@ -1,3 +1,4 @@
 #! /bin/bash 
+Secret = "QUFvIEthbGkgUGFoYWRpIGtlIFBpY2hlCg=="
 seting="SGEgeWUgS3JsbyBwZWhsZSA="
 echo "$seting" | base64 -d
